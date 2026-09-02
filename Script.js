@@ -2,7 +2,7 @@
 
 
 
-const PREDICT_URL = "http://127.0.0.1:8000/predict";
+const PREDICT_URL = "https://mindmetric-student-wellbeing-predictor.onrender.com";
 
 
 const SCORE_SCALE_MAX = 10;
