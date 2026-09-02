@@ -2,7 +2,7 @@
 
 
 
-const PREDICT_URL = "https://mindmetric-student-wellbeing-predictor.onrender.com";
+const PREDICT_URL = "https://mindmetric-student-wellbeing-predictor.onrender.com/predict";
 
 
 const SCORE_SCALE_MAX = 10;
